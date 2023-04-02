@@ -1,9 +1,9 @@
 # markdown2html
 This Project aims to provide the following functionality:
 
- - Create nice html Sites (Bootstrap Style) from Markdown
- - Support for mermaid.js Diagrams in Markdown
- - Support for Code Highlighting in sourcecode examples included in the markdown file.
+ - Create nice html Sites (Bootstrap Styled) from Markdown
+ - Support for mermaid.js Diagrams in Markdown ( https://mermaid.js.org )
+ - Support for Code Highlighting in sourcecode examples included in the markdown file. ( https://highlightjs.org )
 
 Why am I doing this ?
 
