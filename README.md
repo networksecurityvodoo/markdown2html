@@ -8,6 +8,8 @@ This Project aims to provide the following functionality:
 Why am I doing this ?
 
 Learning more about HTML, CSS, Markdown and Mermaid.
-Having a nice static website without the overhead of hugo or any other static website framework.
+
+Learning more about Git repository structure (first repo with 2 Branches).
+
 
  
